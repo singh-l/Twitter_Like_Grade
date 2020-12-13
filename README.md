@@ -1,13 +1,10 @@
 ## Twitter_Like_Grade
-[<img align="left" alt="" width="22px" target="_blank"  src="https://lh6.googleusercontent.com/jmhs5cTEjYrWPyCdT55QI_PzVh5vjnShIHSmgcjPODyhuvNtbRxKj1F057xdoB7Y8IjnrMJowQ=w1280" />][website]
+[<img align="left" alt="" width="22px" target="_blank"  src="https://media.glassdoor.com/sqll/138330/springer-international-publishing-squarelogo-1495566962148.png" />][website]
 [<img align="left" alt=" | LinkedIn" width="22px" target="_blank"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy-TZipv8mF4zDszEHp15pADsjs4XkbuvZQg&usqp=CAU" />][linkedin]
 [<img align="left" alt=" | LinkedIn" width="22px" target="_blank"  src="https://leetcode.com/static/images/LeetCode_logo.png" />][LeetCode]
 <!--- [<img align="left" alt=" | Twitter" width="22px" target="_blank"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] --->
 
 <br />
-
-<h5> Thanks for the visit, have a nice weekend, Cheers!!! <br/> Regards, <br/> Lovedeep </h5>
-
 [linkedin]: https://linkedin.com/in/singhlovedeep
 [website]: https://sites.google.com/view/lovedeepsingh
 [LeetCode]: https://leetcode.com/lovedeep
