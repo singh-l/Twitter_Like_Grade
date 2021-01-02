@@ -3,11 +3,9 @@
 
 <br />
 
-
-[linkedin]: https://linkedin.com/in/singhlovedeep
-[website]: https://sites.google.com/view/lovedeepsingh
-[LeetCode]: https://leetcode.com/lovedeep
-<!---[twitter]: https://twitter.com/iamLSingh --->
+[website]: https://sites.google.com/view/lovedeepsingh/research/twitterlikes
+<!--- --->
+</br>
 **An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: A novel approach***
 </br>
 Author(s): Lovedeep Singh*, Kanishk Gautam
