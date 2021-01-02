@@ -1,5 +1,5 @@
 ## Twitter_Like_Grade
-[![Website](https://img.shields.io/website?label=personal_website&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh)](https://sites.google.com/view/lovedeepsingh)
+[![Website](https://img.shields.io/website?label=site_page&style=for-the-badge&url=https%3A%2F%2Fsites.google.com/view/lovedeepsingh)](https://sites.google.com/view/lovedeepsingh)
 
 **An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: A novel approach***
 </br>
