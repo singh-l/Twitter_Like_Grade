@@ -1,8 +1,12 @@
 ## Twitter_Like_Grade
 [<img align="left" alt="" width="30px" target="_blank"  src="https://icon-library.com/images/web-link-icon-png/web-link-icon-png-12.jpg" />][website]
+
 <br />
-[website]: https://sites.google.com/view/lovedeepsingh/research/twitterlikes
-</br>
+
+
+[linkedin]: https://linkedin.com/in/singhlovedeep
+[website]: https://sites.google.com/view/lovedeepsingh
+[LeetCode]: https://leetcode.com/lovedeep
 <!---[twitter]: https://twitter.com/iamLSingh --->
 **An attempt on Twitter ‘likes’ grading strategy using pure linguistic feature engineering: A novel approach***
 </br>
